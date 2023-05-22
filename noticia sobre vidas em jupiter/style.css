@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(128, 124, 124);
+    color: white;
+    font-family: 'Lora', serif;
+}
+
+ul.navbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+ul.navbar li{
+    float: left;
+    text-decoration: none;
+}
+
+ul.navbar li{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    list-style-type: none;
+}
+
+ul.navbar li a{
+    text-decoration: none;
+    color: white;
+}
+
+ul.navbar li a:hover{
+    background-color: #746e6e;
+}
+
+img{
+    margin-left: 500px;
+}
+
+.titulo{
+    margin-top: 40px;
+}
